@@ -105,15 +105,9 @@ thead{
   .carousel .carousel__item img{
     min-width: none;
   }
-}
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 102px;
+  header img{
+    display: none;
+  }
 }
 
 .pagination{
